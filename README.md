@@ -13,9 +13,9 @@
 ---
 
 ### 🌐 My Digital Hub  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📺 [YouTube](https://www.youtube.com/@your-channel)  
-🌍 [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryaman-gourav-402066367/)  
+📺 [YouTube](https://www.youtube.com/@SmartEDlab)  
+🌍 [Portfolio](https://aryaman-portfolio.thesimple.ink/)
 
 ---
 
@@ -43,15 +43,3 @@
 *Let’s connect and build something awesome together 🚀*
 <!--
 **aryamangourav/aryamangourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
