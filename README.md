@@ -20,10 +20,10 @@
 ---
 
 ### 📁 Featured Repos  
-- 📘 [PGDM Cheat Sheets](https://github.com/aryamangourav/cheat-sheets)  
+- 📘 [PGDM Cheat Sheets](https://github.com/aryamangourav/PGDM-cheat-sheets)  
 - 📊 [Power BI Dashboards](https://github.com/aryamangourav/powerbi-dashboards)
-- 📉 [Tableau Dashboards](https://github.com/aryamangourav/tableau-dashboards)  
-- 🎨 [Presentation Templates](https://github.com/aryamangourav/ppt-templates)  
+- 📉 [Tableau Dashboards](https://github.com/aryamangourav/Tableau-Dashboards)  
+- 🎨 [Presentation Templates](https://github.com/aryamangourav/Presentation-templates)  
 *(coming soon – stay tuned)*
 
 ---
