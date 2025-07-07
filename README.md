@@ -20,7 +20,7 @@
 ---
 
 ### 📁 Featured Repos  
-- 📘 [PGDM Cheat Sheets](https://github.com/aryamangourav/PGDM-cheat-sheets)  
+- 📘 [Cheat Sheets](https://github.com/aryamangourav/PGDM-cheat-sheets)  
 - 📊 [Power BI Dashboards](https://github.com/aryamangourav/powerbi-dashboards)
 - 📉 [Tableau Dashboards](https://github.com/aryamangourav/Tableau-Dashboards)  
 - 🎨 [Presentation Templates](https://github.com/aryamangourav/Presentation-templates)  
