@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Toolbox  
-`Power BI` • `Tableau` • `Excel` • `Python` • `SQL` • `Canva` • `PPT` • `Notion`
+`Power BI` • `Tableau` • `Excel` • `Python` • `SQL` • `Canva` • `PPT` • `Notion`• `UI/UX`
 
 ---
 
